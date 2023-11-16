@@ -22,4 +22,5 @@ Información relevante:
 Los "botones" son sensores capacitivos que imprimimos en el Espacio Digital y la parte metálica hicimos un molde y lo mandamos al taller de fundición.
 El archivo OIP.jpg es una imágen que usamos de referencia para saber los pines del ESP32.
 En la linea 2, "ButtonPins" utilizó valores de GPIO en lugar de Touch ya que consideramos que no cambiaba nada, ya que al hacer pruebas era lo mismo.
-
+**IMPORTANTE** En la última clase probamos cambiar el cable Ethernet por un cable Coaxial, tenía un fallo cada aproximadamente 10 paquetes, probamos con
+solo 1 botón.
